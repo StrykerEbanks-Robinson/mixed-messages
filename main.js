@@ -11,9 +11,9 @@ Why did the...
 - T-Rex, cross the road? To eat the chicken on the other side!
 */
 
-// Save each noun, verb, and reason to an array
-const nouns = ['bird', 'chicken', 'weightlifter', 'ghost', 'teacher', 'chicken', 't-rex'];
-const verbs = ['go to the hospital', 'cross the playground', 'eat bricks', 'go to the theatre', 'go to the beach', 'cross the road', 'cross the road'];
+// Save each noun, verb, and reason to an array. Don't do repeats (I already tested it with repeats and I don't like how frequently the repeats are randomly selected).
+const nouns = ['bird', 'chicken', 'weightlifter', 'ghost', 'teacher', 't-rex'];
+const verbs = ['go to the hospital', 'cross the playground', 'eat bricks', 'go to the theatre', 'go to the beach', 'cross the road'];
 const reasons = ['get tweetment', 'get to the other slide', 'build himself up', 'see a phantomime', 'test the water', 'get to the other side', 'eat the chicken on the other side'];
 
 // Function randomly picks an item from an array
