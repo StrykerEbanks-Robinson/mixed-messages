@@ -7,7 +7,7 @@ This program generates a "Why did the..." joke using a randomly generated subjec
 
 ## Usage
 
-To use this program, download the main.js file onto your computer, and run it using <node main.js> from your command line terminal.
+To use this program, download the main.js file onto your computer and run it using `node main.js` from your command line terminal.
 
 ## Contributors
 
