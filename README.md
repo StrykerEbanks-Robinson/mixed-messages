@@ -15,4 +15,4 @@ Jokes were pulled from: [Beano](https://www.beano.com/posts/why-did-jokes).
 
 ## License
 
-MIT License. Copyright (c) 2022 Stryker Ebanks-Robinson
+MIT License. Copyright (c) 2022 Stryker Ebanks-Robinson.
